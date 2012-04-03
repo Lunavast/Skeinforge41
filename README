@@ -16,14 +16,14 @@ kliment's printrun を下記の場所からダウンロードしてください�
 zip file: https://github.com/kliment/Printrun/zipball/master
 tar.gz: https://github.com/kliment/Printrun/tarball/master
 
-Read this for information on printrun and installing dependencies for your particular operating system:
-https://github.com/kliment/Printrun/blob/master/README.md
+OS別の詳細については下記URLを参照してください：
+http://3dprint.a-z-ia.net/blogs/entry/3D-Lunavast-Prusa-Printrun
 
-Once downloaded, extract the folder to a suitable location (eg. Desktop)
+ダウンロードし終わったら、適当な場所でフォルダを回答してください（例：デスクトップ）。
 
-2) Download romscraj/skeinforge41:
-zip file: https://github.com/romscraj/skeinforge41/zipball/master
-tar.gz: https://github.com/romscraj/skeinforge41/tarball/master
+2) Lunavast/skeinforge41 をダウンロードしてください:
+zip file: https://github.com/Lunavast/skeinforge41/zipball/master
+tar.gz: https://github.com/Lunavast/skeinforge41/tarball/master
 
 Once downloaded, extract the folder to a suitable location (eg. Desktop).
 
