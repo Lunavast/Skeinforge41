@@ -45,13 +45,13 @@ tar.gz: https://github.com/Lunavast/skeinforge41/tarball/master
 - Bed: PrintbedとSMDサーミスタを使用するLunavast Prusa 3Dプリンターの場合、65℃に設定してください。
 - Filament extrusion: 3mm、100mm/min (変更可能ですが、初期値はこの値を使用してください)
 
-8) Click the Connect button in pronterface. Pronterface should connect to your Durbie if all is fine - once connected, you will see "Printer is online" in the status bar (at the bottom left corner)
+8) pronterfaceのConnectボタンをクリックしてください。問題が無ければ、PronterfaceはLunavast Prusaと接続できるはずです。 - 接続されると、"Printer is online"とステータスバーに表示されます（左下）。
 
-9) From menu bar, click "Settings>Slicing Settings". If you have copied the ".skeinforge" folder into your User folder correctly, the "Skeinforge Settings" control panel will pop up.
+9) メニューバーで、"Settings>Slicing Settings"をクリックしてください。".skeinforge" フォルダをユーザーフォルダーに正しくコピーできていれば、 "Skeinforge Settings" コントロールパネルが表示されます。
 
-10) Select "Profile Type" as "Extrusion" and "Profile Selection" as "Durbie-Normal" for a start. Close the "Skeinforge Settings" control panel.
+10) 始めは "Profile Type" に "Extrusion" 、"Profile Selection" に "Durbie-Normal" を選択してください。"Skeinforge Settings" コントロールパネルを閉じてください。
 
-11) Click "Load File" button in pronterface and open "test-print.stl" from the folder you have extracted in Step 2. Pronterface + skeinforge will start to slice (skein) the model.
+11) pronterfaceで"Load File"をクリックbutton in pronterface and open "test-print.stl" from the folder you have extracted in Step 2. Pronterface + skeinforge will start to slice (skein) the model.
 
 12) Once slicing is done, you can start your test print by clicking on the "Print" button. Be sure that the the extruder and printbed have reached their set temperatures and you have loaded enough feedstock (filament) for the print before you start printing.
 
