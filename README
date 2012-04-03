@@ -19,13 +19,13 @@ tar.gz: https://github.com/kliment/Printrun/tarball/master
 OS別の詳細については下記URLを参照してください：
 http://3dprint.a-z-ia.net/blogs/entry/3D-Lunavast-Prusa-Printrun
 
-ダウンロードし終わったら、適当な場所でフォルダを回答してください（例：デスクトップ）。
+ダウンロードし終わったら、適当な場所でフォルダを解凍してください（例：デスクトップ）。
 
 2) Lunavast/skeinforge41 をダウンロードしてください:
 zip file: https://github.com/Lunavast/skeinforge41/zipball/master
 tar.gz: https://github.com/Lunavast/skeinforge41/tarball/master
 
-Once downloaded, extract the folder to a suitable location (eg. Desktop).
+ダウンロードし終わったら、適当な場所でフォルダを解凍してください（例：デスクトップ）。
 
 3) Copy the "skeinforge" folder you have extracted in Step 2 and paste it into the printrun folder extracted from Step 1
 
