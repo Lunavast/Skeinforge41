@@ -1,18 +1,18 @@
 日本語
 
-This repo contains a mirror of Skeinforge 41 (which can also be downloaded from http://fabmetheus.crsndoo.com/)
+このrepoは Skeinforge 41 のミラーを含んでいます( http://fabmetheus.crsndoo.com/ からダウンロード可能です)。
 
-Also included, in the ".skeinforge" folder:
-- two printing profiles for Durbie RepRap Prusa Mendel printers: "Durbie-Normal" and "Durbie-Fine" ("Durbie-Fine" is an experimental profile)
-- replace.csv for Durbie RepRap Prusa Mendel printers
-- sample end.gcode for Durbie RepRap Prusa Mendel printers
+また、".skeinforge" フォルダー内に:
+- Lunavast Prusa 3Dプリンター用に２つのプロフィールを含みます："Durbie-Normal" と "Durbie-Fine" ("Durbie-Fine" は実験的プロフィールです。)
+- replace.csv は Lunavast Prusa 3Dプリンター用です。
+- sample end.gcode は Lunavast Prusa 3Dプリンター用です。
 ____________________________________________________________________________
 
-INSTRUCTIONS
+手順
 
-1) We recommend kliment's printrun host controller software.
+1) kliment's printrun ホストコントローラーソフトウェアを推奨。
 
-Download kliment's printrun here:
+kliment's printrun を下記の場所からダウンロードしてください：
 zip file: https://github.com/kliment/Printrun/zipball/master
 tar.gz: https://github.com/kliment/Printrun/tarball/master
 
