@@ -27,23 +27,23 @@ tar.gz: https://github.com/Lunavast/skeinforge41/tarball/master
 
 ダウンロードし終わったら、適当な場所でフォルダを解凍してください（例：デスクトップ）。
 
-3) Copy the "skeinforge" folder you have extracted in Step 2 and paste it into the printrun folder extracted from Step 1
+3) Step 2 で解凍した "skeinforge" フォルダをStep 1で解凍した printrunフォルダにコピーしてください。
 
-4) Copy the ".skeinforge" folder you have extracted in Step 2 and paste it into your user directory.
-Example: C:\Users\iDiot , where iDiot is your username.
+4) Step 2 で解凍した ".skeinforge" フォルダをユーザーディレクトリにコピーしてください。
+例： C:\Users\iDiot ユーザー名がiDiotの場合。
 
-5) Power up your Durbie and connect the USB cable to your computer. Identify the port that your printer is connected to (eg. from Device Manager)
+5) Lunavast Prusaの電源を入れ、USBケーブルでコンピューターと接続してください。プリンターが接続されているポートを確認してください（例：デバイスマネージャーを使用）。
 
-6) Run pronterface.py from inside the printrun folder extracted from Step 1.
+6) Step 1で解凍したPrintrunフォルダ内の pronterface.py を実行してください。
 
-7) From the pull down menus in pronterface, select/enter the following:
-- COMXX where XX is the port that your printer is connected to
+7) pronterfaceのプルダウンメニューで下記項目を選択/入力してください：
+- COMXX (XXはプリンターが接続されているポート)
 - 250000 baud rate
 - XY: 5000 mm/min
 - Z: 120 mm/min
-- Heater: temperature to be set based the feedstock that you use, and partly the thermistor that you are using on your extruder as well. Try between 175�C - 195�C for PLA, typically 185�C
-- Bed: For Durbie printers supplied with a printbed and SMD thermistor, set this to 65�C for printing PLA
-- Filament extrusion: 3mm and 100mm/min (can be changed but use these settings for a start)
+- Heater: 温度は使用するフィラメントや使用するExtruder用サーミスタによって適切な温度を指定してください。PLAを使用する場合、175℃ - 195℃の範囲を試してください。 例：185℃。P-
+- Bed: PrintbedとSMDサーミスタを使用するLunavast Prusa 3Dプリンターの場合、65℃に設定してください。
+- Filament extrusion: 3mm、100mm/min (変更可能ですが、初期値はこの値を使用してください)
 
 8) Click the Connect button in pronterface. Pronterface should connect to your Durbie if all is fine - once connected, you will see "Printer is online" in the status bar (at the bottom left corner)
 
