@@ -8,7 +8,7 @@
 - sample end.gcode は Lunavast Prusa 3Dプリンター用です。
 ____________________________________________________________________________
 
-手順
+Lunavast Prusa 3Dプリンター 初期キャリブレーション手順
 
 1) kliment's printrun ホストコントローラーソフトウェアを推奨。
 
@@ -58,12 +58,12 @@ tar.gz: https://github.com/Lunavast/skeinforge41/tarball/master
 13) プリントが終了したら、 20mm x 20mm x 20mm のキューブと 高さ20mm、直径20mmのミニマグが完成しているはずです。これらのオブジェクトは20mm離れてプリントされているはずです。
 - 2つの物体の間が、糸を引いたような状態になっていないことを確認してください。
 - キューブの側面が斜めになっていたり、変形してないことを確認してください。上面と底面が平らなことを確認してください。キューブの寸法を確認してください。
-- Check the mini mug for water tightness by pouring in water - it should not leak (wait at least 5 mins). Also verify the dimensions of the cube.
-- Note that the objects are not edible.
+- ミニマグに水を入れて漏れが無いか確認してください。 - 通常、漏れはないはずです（完成後、5分以上経過してから作業してください）。ミニマグの寸法を確認してください。
+- これらのプリント品は食用ではありません。
 
-14) If the print did not turn out well, check your printer assembly and/or temperature settings in pronterface. Once you are able to print the test print succesfully, you can move on to print other objects and change the skeinforge settings to your liking - a very good comprehensive guide can be found here: http://fabmetheus.crsndoo.com/wiki/index.php/Skeinforge as well as on the web in forums and helpful user blogs who share a lot of good stuff with other people.
+14) プリントが上手くいかなかった場合、プリンターの組み立て、pronterfaceで温度設定を確認してください。 テストプリントに成功したら、好きなものをプリント可能です。skeinforgeの設定も自由に変更可能です。設定ガイドは以下のサイトでも見ることができます: http://fabmetheus.crsndoo.com/wiki/index.php/Skeinforge また、ネット上の様々なサイトやフォーラム、ブログ等でも有益な情報が入手できます。
 
-15) Enjoy printing!
+15) プリントをお楽しみください！
 
 
 
@@ -74,9 +74,9 @@ English
 This repo contains a mirror of Skeinforge 41 (which can also be downloaded from http://fabmetheus.crsndoo.com/)
 
 Also included, in the ".skeinforge" folder:
-- two printing profiles for Durbie RepRap Prusa Mendel printers: "Durbie-Normal" and "Durbie-Fine" ("Durbie-Fine" is an experimental profile)
-- replace.csv for Durbie RepRap Prusa Mendel printers
-- sample end.gcode for Durbie RepRap Prusa Mendel printers
+- two printing profiles for Lunavast Prusa 3D printers: "Durbie-Normal" and "Durbie-Fine" ("Durbie-Fine" is an experimental profile)
+- replace.csv for Lunavast Prusa 3D printers
+- sample end.gcode for Lunavast Prusa 3D printers
 ____________________________________________________________________________
 
 INSTRUCTIONS
@@ -92,9 +92,9 @@ https://github.com/kliment/Printrun/blob/master/README.md
 
 Once downloaded, extract the folder to a suitable location (eg. Desktop)
 
-2) Download romscraj/skeinforge41:
-zip file: https://github.com/romscraj/skeinforge41/zipball/master
-tar.gz: https://github.com/romscraj/skeinforge41/tarball/master
+2) Download Lunavast/skeinforge41:
+zip file: https://github.com/Lunavast/skeinforge41/zipball/master
+tar.gz: https://github.com/Lunavast/skeinforge41/tarball/master
 
 Once downloaded, extract the folder to a suitable location (eg. Desktop).
 
