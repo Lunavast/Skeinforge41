@@ -12,7 +12,8 @@ Skeinforgeは、3Dモデルデータを3Dプリンターでプリント可能な
 - sample end.gcode は Lunavast Prusa 3Dプリンター用です。
 ____________________________________________________________________________
 
-Lunavast Prusa 3Dプリンター(http://lunavast.com/?pid=39241828) 初期キャリブレーション手順
+Lunavast Prusa 3Dプリンター(http://lunavast.com/?pid=39241828) 
+初期キャリブレーション手順
 
 1) kliment's printrun ホストコントローラーソフトウェアを推奨。
 
