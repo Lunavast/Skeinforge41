@@ -35,7 +35,7 @@ tar.gz: https://github.com/Lunavast/skeinforge41/tarball/master
 3) Step 2 で解凍した "skeinforge" フォルダをStep 1で解凍した printrunフォルダにコピーしてください。
 
 4) Step 2 で解凍した ".skeinforge" フォルダをユーザーディレクトリにコピーしてください。
-例： C:\Users\iDiot ユーザー名がiDiotの場合。
+例： C:\Users\lunavast ユーザー名がlunavastの場合。
 
 5) Lunavast Prusaの電源を入れ、USBケーブルでコンピューターと接続してください。プリンターが接続されているポートを確認してください（例：デバイスマネージャーを使用）。
 
@@ -72,7 +72,7 @@ tar.gz: https://github.com/Lunavast/skeinforge41/tarball/master
 
 
 
------------------------------------------------------------------------------------------------------------------
+____________________________________________________________________________
 English
 
 
