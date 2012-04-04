@@ -1,9 +1,13 @@
 日本語
 
+はじめに
+Skeinforgeは、3Dモデルデータを3Dプリンターでプリント可能なG-Codeに変換するプログラムです。
+
+
 このrepoは Skeinforge 41 のミラーを含んでいます( http://fabmetheus.crsndoo.com/ からダウンロード可能です)。
 
 また、".skeinforge" フォルダー内に:
-- Lunavast Prusa 3Dプリンター用に２つのプロフィールを含みます："Durbie-Normal" と "Durbie-Fine" ("Durbie-Fine" は実験的プロフィールです。)
+- Lunavast Prusa 3Dプリンター用に2種類の設定ファイルを含みます："Durbie-Normal" と "Durbie-Fine" ("Durbie-Fine" は実験的設定ファイルです。)
 - replace.csv は Lunavast Prusa 3Dプリンター用です。
 - sample end.gcode は Lunavast Prusa 3Dプリンター用です。
 ____________________________________________________________________________
@@ -61,7 +65,7 @@ tar.gz: https://github.com/Lunavast/skeinforge41/tarball/master
 - ミニマグに水を入れて漏れが無いか確認してください。 - 通常、漏れはないはずです（完成後、5分以上経過してから作業してください）。ミニマグの寸法を確認してください。
 - これらのプリント品は食用ではありません。
 
-14) プリントが上手くいかなかった場合、プリンターの組み立て、pronterfaceで温度設定を確認してください。 テストプリントに成功したら、好きなものをプリント可能です。skeinforgeの設定も自由に変更可能です。設定ガイドは以下のサイトでも見ることができます: http://fabmetheus.crsndoo.com/wiki/index.php/Skeinforge また、ネット上の様々なサイトやフォーラム、ブログ等でも有益な情報が入手できます。
+14) プリントが上手くいかなかった場合、プリンターの組み立ての確認と、pronterfaceで温度設定を確認してください。 テストプリントに成功したら、好きなものをプリント可能です。skeinforgeの設定も自由に変更可能です。設定ガイドは以下のサイトでも見ることができます: http://fabmetheus.crsndoo.com/wiki/index.php/Skeinforge また、ネット上の様々なサイトやフォーラム、ブログ等でも有益な情報が入手できます。
 
 15) プリントをお楽しみください！
 
